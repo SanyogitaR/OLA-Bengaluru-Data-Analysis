@@ -13,17 +13,17 @@
 ## 📊 Dataset (Excel)
 **100K records, 19 columns**
 
-![Dataset Sample](https://via.placeholder.com/800x400/4A90E2/FFFFFF?text=Excel+Dataset+Screenshot)
+![Dataset Sample](images/excel.png)
 
 ## 🔍 SQL Analysis (10 Queries)
 
 
-![SQL Results](https://via.placeholder.com/800x300/7ED321/FFFFFF?text=SQL+Results)
+![SQL Results](images/sql.png)
 
 ## 📈 Power BI Dashboard
 **5 Interactive Views**
 
-![Power BI Dashboard](https://via.placeholder.com/1200x600/E94B3C/FFFFFF?text=Power+BI+Dashboard)
+![Power BI Dashboard](images/dashboard.png)
 
 ## 💰 Business Impact
 
