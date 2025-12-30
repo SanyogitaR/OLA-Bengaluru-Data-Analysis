@@ -36,7 +36,7 @@
 ## 🛠️ Tech Stack
 **Excel → SQL → Power BI**
 
-**Portfolio by [Your Name]** | LinkedIn: [your-link]
+**Portfolio by Sanyogita Rajput** | LinkedIn: [your-link]
 
 ⭐ Star if helpful!
 
